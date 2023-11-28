@@ -5,4 +5,4 @@
 ║╚═╝║║╚╝║─║║──║╚╗╔══╝║║╚═╝║╔╗║║║║║╗
 - Install
 - Run Activation
-- Enter Number "0"
+- Enter Number "5"
