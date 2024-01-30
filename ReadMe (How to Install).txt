@@ -2,4 +2,5 @@
 - Run Activation
 - Enter Number"6"
 - Enter Number"8"
+- Enter Number"9"
 - Run Setup
