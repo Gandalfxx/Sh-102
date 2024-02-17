@@ -3,4 +3,5 @@
 - Enter Number"6"
 - Enter Number"8"
 - Enter Number"9"
+- Enter Number"2"
 - Run Setup
