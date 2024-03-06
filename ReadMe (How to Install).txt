@@ -1,4 +1,4 @@
-- Install 1
+- Install
 - Run Activation
 - Enter Number"6"
 - Enter Number"8"
