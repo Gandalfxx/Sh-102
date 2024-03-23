@@ -4,6 +4,6 @@
 - Enter Number"8"
 - Enter Number"9"
 - Enter Number"2"
-- Enter Number"5"
+- Enter Number"6"
 - Run Setup
 - Enjoy
